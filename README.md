@@ -17,3 +17,6 @@ echo This is a demo.
 ```bash
 echo The first test.
 ```
+```bash
+echo the test on my server.
+```
