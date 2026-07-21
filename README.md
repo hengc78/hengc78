@@ -20,3 +20,7 @@ echo The first test.
 ```bash
 echo the test on my server.
 ```
+
+```bash
+ks
+```
