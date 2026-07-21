@@ -22,5 +22,5 @@ echo the test on my server.
 ```
 
 ```bash
-ks
+oppoks
 ```
